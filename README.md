@@ -1,5 +1,7 @@
 # zsh-pnpm
 
+[![License](https://img.shields.io/github/license/vladhaidukkk/zsh-pnpm)](https://opensource.org/licenses/MIT)
+
 This Oh-My-Zsh plugin provides aliases for pnpm commands.
 
 ## Installation
